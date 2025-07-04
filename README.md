@@ -43,4 +43,4 @@ The workspace contains:
 
 Feel free to modify the colors, add new applications, or extend the functionality to make PinkOS your own!
 
-Made with 💖 for wholesome
+Made with 💖 by Pinak Kundu
